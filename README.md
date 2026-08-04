@@ -1,108 +1,84 @@
-# alexxavierv
-<p align="center">
-  <img src="images/banner.png" width="100%" alt="Banner"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Alex Xavier</h1>
-
-<h3 align="center">☁️ Cloud Engineer | AWS | Azure | Terraform | FinOps</h3>
+<h1 align="center">Alex Xavier</h1>
 
 <p align="center">
-Passionate about building scalable cloud infrastructure, automating deployments, and optimizing cloud costs.
+Cloud Engineer • AWS • Azure • Terraform • FinOps
 </p>
-
----
-
-## 🚀 About Me
-
-- ☁️ Cloud Engineer Apprentice @ Xebia
-- 🎓 B.Tech in Artificial Intelligence & Data Science
-- 🌱 Currently learning Kubernetes & Advanced Terraform
-- 💰 Interested in FinOps and Cloud Cost Optimization
-- ⚡ Passionate about Cloud Automation & Infrastructure as Code
-
----
-
-## 💻 Tech Stack
-
-### ☁️ Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform" />
-</p>
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash,java" />
-</p>
-
-### ⚙️ DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
-</p>
-
----
-
-## 🏆 Certifications
-
-✅ Anthropic Claude Certified Associate
-
-✅ Anthropic Claude Certified Developer
-
-🎯 AWS Certified Solutions Architect – Associate (Preparing)
-
----
-
-## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+<a href="mailto:ax200330@gmail.com">Email</a> •
+<a href="https://github.com/ax200330">GitHub</a> •
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## About
+
+I'm a Cloud Engineer passionate about designing, automating, and optimizing cloud infrastructure. I enjoy working with AWS, Microsoft Azure, Infrastructure as Code, and cloud cost optimization while continuously learning modern cloud technologies.
+
+Currently focused on expanding my knowledge in Kubernetes, Terraform, and cloud architecture.
+
+---
+
+## Certifications
+
+- Google Cloud Digital Leader
+- Claude 101
+- AWS Certified Solutions Architect – Associate *(In Progress)*
+
+---
+
+## Technical Skills
+
+**Cloud**
+
+AWS • Microsoft Azure
+
+**Infrastructure as Code**
+
+Terraform
+
+**DevOps**
+
+Git • GitHub • Azure DevOps
+
+**Programming**
+
+Python • Bash
+
+**Areas of Interest**
+
+Cloud Engineering • FinOps • Infrastructure Automation • Cloud Security
+
+---
+
+## Currently Learning
+
+- Kubernetes
+- Advanced Terraform
+- AWS Solutions Architect Associate
+- German (Duolingo)
+
+---
+
+## GitHub Statistics
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ax200330&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ax200330&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
-
-## 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://streak-stats.demolab.com?user=ax200330&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="left">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-### ✨ Quote
-
-> "Automating today to build a better tomorrow."
+> *"Excellence is built through consistency, not intensity."*
