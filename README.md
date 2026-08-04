@@ -1,4 +1,4 @@
-<h1 align="center">Alex Xavier</h1>
+<h1 align="center">Alex Xavier V</h1>
 
 <p align="center">
 Cloud Engineer • AWS • Azure • Terraform • FinOps
@@ -7,14 +7,14 @@ Cloud Engineer • AWS • Azure • Terraform • FinOps
 <p align="center">
 <a href="mailto:ax200330@gmail.com">Email</a> •
 <a href="https://github.com/ax200330">GitHub</a> •
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+<a href="https://www.linkedin.com/in/alexxavierv/">LinkedIn</a>
 </p>
 
 ---
 
 ## About
 
-I'm a Cloud Engineer passionate about designing, automating, and optimizing cloud infrastructure. I enjoy working with AWS, Microsoft Azure, Infrastructure as Code, and cloud cost optimization while continuously learning modern cloud technologies.
+I'm a Cloud Engineer passionate about designing, automating, and optimizing cloud infrastructure. I enjoy working with AWS, Microsoft Azure, GCP, Infrastructure as Code, and cloud cost optimization while continuously learning modern cloud technologies.
 
 Currently focused on expanding my knowledge in Kubernetes, Terraform, and cloud architecture.
 
@@ -24,7 +24,6 @@ Currently focused on expanding my knowledge in Kubernetes, Terraform, and cloud 
 
 - Google Cloud Digital Leader
 - Claude 101
-- AWS Certified Solutions Architect – Associate *(In Progress)*
 
 ---
 
@@ -61,24 +60,5 @@ Cloud Engineering • FinOps • Infrastructure Automation • Cloud Security
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ax200330&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ax200330&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ax200330&theme=transparent&hide_border=true"/>
-
-</p>
-
----
 
 > *"Excellence is built through consistency, not intensity."*
