@@ -38,12 +38,12 @@ Currently focused on expanding my knowledge in Kubernetes, Terraform, and cloud 
 
 ## Google Cloud Skills Boost
 
-- 🏅 [Google Cloud Digital Leader](https://www.skills.google/public_profiles/8e79fc6f-a320-4a4c-965c-c1c635ce1edc/badges/17921309)
-- 🏅 [Google Cloud Fundamentals](https://www.skills.google/public_profiles/8e79fc6f-a320-4a4c-965c-c1c635ce1edc/badges/20650457)
-- 🏅 [Cloud Computing Fundamentals](https://www.skills.google/public_profiles/8e79fc6f-a320-4a4c-965c-c1c635ce1edc/badges/20649708)
-- 🏅 [Google Cloud Infrastructure](https://www.skills.google/public_profiles/8e79fc6f-a320-4a4c-965c-c1c635ce1edc/badges/20514896)
-- 🏅 [Google Cloud Networking](https://www.skills.google/public_profiles/8e79fc6f-a320-4a4c-965c-c1c635ce1edc/badges/20514828)
-- 🏅 [Google Cloud IAM](https://www.skills.google/public_profiles/8e79fc6f-a320-4a4c-965c-c1c635ce1edc/badges/20507830)
+- 🏅 [Introduction to Generative AI](https://www.skills.google/public_profiles/8e79fc6f-a320-4a4c-965c-c1c635ce1edc/badges/17921309)
+- 🏅 [Implement CI/CD Pipelines on Google Cloud](https://www.skills.google/public_profiles/8e79fc6f-a320-4a4c-965c-c1c635ce1edc/badges/20650457)
+- 🏅 [Google Cloud Essentials](https://www.skills.google/public_profiles/8e79fc6f-a320-4a4c-965c-c1c635ce1edc/badges/20649708)
+- 🏅 [Introduction to Large Language Models](https://www.skills.google/public_profiles/8e79fc6f-a320-4a4c-965c-c1c635ce1edc/badges/20514896)
+- 🏅 [Get Started with Cloud Storage](https://www.skills.google/public_profiles/8e79fc6f-a320-4a4c-965c-c1c635ce1edc/badges/20514828)
+- 🏅 [Innovating with Google Cloud Artificial Intelligence](https://www.skills.google/public_profiles/8e79fc6f-a320-4a4c-965c-c1c635ce1edc/badges/20507830)
 
 > View my complete Google Cloud Skills Boost profile for all earned badges.
 
